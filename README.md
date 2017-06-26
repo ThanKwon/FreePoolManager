@@ -2,9 +2,9 @@
 Generic Dictionary Pool
 
 Cons.
-Dictionary(Faster than what i used >w<)
-Objects are removed from pool when it used.(More Faster search even if many objects are in pool)
-Clean up pool automatically with hiearchy.
+Dictionary(Faster than what I used >w<)
+Objects are removed from the pool when it used.(More Faster search even if many objects are in pool)
+Clean up pool automatically with hiarchy.
 
 Usage
 -------------------
