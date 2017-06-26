@@ -1,0 +1,2 @@
+# FreePoolManager
+Generic Dictionary Pool
